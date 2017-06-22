@@ -1,0 +1,6 @@
+c:\users\jakub\documents\visual studio 2015\Projects\MN3\MN3\bin\Debug\MN3.exe.config
+c:\users\jakub\documents\visual studio 2015\Projects\MN3\MN3\obj\Debug\MN3.csprojResolveAssemblyReference.cache
+c:\users\jakub\documents\visual studio 2015\Projects\MN3\MN3\bin\Debug\MN3.exe
+c:\users\jakub\documents\visual studio 2015\Projects\MN3\MN3\bin\Debug\MN3.pdb
+c:\users\jakub\documents\visual studio 2015\Projects\MN3\MN3\obj\Debug\MN3.exe
+c:\users\jakub\documents\visual studio 2015\Projects\MN3\MN3\obj\Debug\MN3.pdb
